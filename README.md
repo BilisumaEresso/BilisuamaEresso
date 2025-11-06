@@ -67,10 +67,6 @@ A **modern blogging platform** for developers to share tech content.
 ---
 
 ### 🏗️ [RE-construction](https://github.com/BilisumaEresso/RE-server)
-<p align="center">
-  <img src="https://raw.githubusercontent.com/BilisumaEresso/RE-server/main/preview.png" alt="RE-construction App Screenshot" width="80%" style="border-radius:12px;"/>
-</p>
-
 A **portfolio website** for small construction companies to display projects and attract clients.
 
 **Highlights:**
