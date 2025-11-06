@@ -56,10 +56,6 @@
 ### 📰 [Blog App](https://bilisa-blog.vercel.app/)
 > [Frontend Repo](https://github.com/BilisumaEresso/react-blog-app) | [Backend Repo](https://github.com/BilisumaEresso/blog-rest-api)
 
-<p align="center">
-  <img src="https://github.com/BilisumaEresso/react-blog-app/blob/main/public/preview.png" alt="Blog App Screenshot" width="80%" style="border-radius:12px;"/>
-</p>
-
 A **modern blogging platform** for developers to share tech content.  
 
 **Key Features:**
