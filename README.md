@@ -1,106 +1,128 @@
-
-<h1 align="center">👋 Hi, I'm Bilisuma Eresso</h1>
-
-<p align="center">
-  🎯 <strong>Full Stack Developer | MERN Stack Enthusiast | Information Systems Student</strong><br>
-  🌍 Addis Ababa, Ethiopia  
-</p>
+<!-- Header Section -->
+<h1 align="center">👋 Hi, I'm <a href="https://www.linkedin.com/in/bilisuma-eresso/" target="_blank">Bilisuma Eresso</a></h1>
+<h3 align="center">🚀 Full Stack Developer | MERN Stack Enthusiast | Information Systems Student</h3>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/bilisuma-eresso/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-Bilisuma%20Eresso-blue?style=flat&logo=linkedin" />
-  </a>
-  <a href="https://github.com/BilisumaEresso" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-BilisumaEresso-black?style=flat&logo=github" />
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="mailto:bilisumaere@gmail.com">
-    <img src="https://img.shields.io/badge/Email-bilisumaere@gmail.com-red?style=flat&logo=gmail" />
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://github.com/BilisumaEresso" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+  <a href="https://leetcode.com/u/BilisumaEresso/" target="_blank">
+    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
   </a>
 </p>
 
 ---
 
-## 🚀 About Me
+## 🧠 About Me
 
-I'm a **Full Stack Developer** and **3rd-year Information Systems student** at **Addis Ababa University** (GPA: 3.76).  
-I’m passionate about crafting **modern, scalable, and user-friendly web applications** using the **MERN Stack**.
-
-💡 I love working on:
-- Full Stack Web Development (React, Node.js, Express, MongoDB)
-- REST APIs & Authentication
-- Clean, responsive UI with TailwindCSS
-- Learning new technologies and solving real-world problems
+🎓 I’m a **3rd-year Information Systems student** at **Addis Ababa University** (GPA: 3.76)  
+💻 Passionate about **building full-stack web applications** using the **MERN stack (MongoDB, Express, React, Node.js)**  
+🌱 Currently improving my **system design** and **API optimization** skills  
+🧩 I love working on real-world problems and designing scalable digital solutions  
 
 ---
 
-## 🧰 Tech Stack
+## ⚡ Tech Stack
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Code-JavaScript-yellow?style=for-the-badge&logo=javascript" />
-  <img src="https://img.shields.io/badge/Code-Java-orange?style=for-the-badge&logo=java" />
-  <img src="https://img.shields.io/badge/Code-C++-blue?style=for-the-badge&logo=cplusplus" />
-  <img src="https://img.shields.io/badge/Database-MongoDB-green?style=for-the-badge&logo=mongodb" />
-  <img src="https://img.shields.io/badge/Framework-Express.js-lightgrey?style=for-the-badge&logo=express" />
-  <img src="https://img.shields.io/badge/Frontend-React-blue?style=for-the-badge&logo=react" />
-  <img src="https://img.shields.io/badge/Styling-TailwindCSS-38bdf8?style=for-the-badge&logo=tailwindcss" />
-  <img src="https://img.shields.io/badge/Tools-Git-black?style=for-the-badge&logo=git" />
-  <img src="https://img.shields.io/badge/Tools-Postman-orange?style=for-the-badge&logo=postman" />
+  <img src="https://skillicons.dev/icons?i=javascript,react,nodejs,express,mongodb,html,css,tailwind,java,cpp,git,postman,vscode" />
+</p>
+
+<p align="center">
+  <a href="https://react.dev/" target="_blank">
+    <img src="https://img.shields.io/badge/Frontend-React%20%26%20TailwindCSS-blue?style=flat-square&logo=react" />
+  </a>
+  <a href="https://nodejs.org/" target="_blank">
+    <img src="https://img.shields.io/badge/Backend-Node.js%20%26%20Express-green?style=flat-square&logo=node.js" />
+  </a>
+  <a href="https://www.mongodb.com/" target="_blank">
+    <img src="https://img.shields.io/badge/Database-MongoDB-brightgreen?style=flat-square&logo=mongodb" />
+  </a>
+  <a href="https://git-scm.com/" target="_blank">
+    <img src="https://img.shields.io/badge/Version%20Control-Git-orange?style=flat-square&logo=git" />
+  </a>
 </p>
 
 ---
 
-## 🧩 Featured Projects
+## 🌐 Featured Projects
 
 ### 📰 [Blog App](https://bilisa-blog.vercel.app/)
-> [Frontend Repo](https://github.com/BilisumaEresso/react-blog-app) • [Backend Repo](https://github.com/BilisumaEresso/blog-rest-api)
+> [Frontend Repo](https://github.com/BilisumaEresso/react-blog-app) | [Backend Repo](https://github.com/BilisumaEresso/blog-rest-api)
 
-A full-featured **MERN Stack Blog Platform** for developers to share ideas and articles.
+<p align="center">
+  <img src="https://github.com/BilisumaEresso/react-blog-app/blob/main/public/preview.png" alt="Blog App Screenshot" width="80%" style="border-radius:12px;"/>
+</p>
 
-**✨ Highlights:**
-- Secure authentication and role-based authorization  
-- Cloudinary integration for image uploads  
-- Fully responsive UI with TailwindCSS  
-- Deployed on **Vercel** and **Render**
+A **modern blogging platform** for developers to share tech content.  
+
+**Key Features:**
+- 🔒 Authentication & Role-based Access Control  
+- ☁️ Cloudinary integration for image uploads  
+- 🚀 Deployed using **Vercel** & **Render**  
+- 💬 Built entirely with **MERN stack** and **TailwindCSS**
 
 ---
 
 ### 🏗️ [RE-construction](https://github.com/BilisumaEresso/RE-server)
-A company portfolio platform for small construction businesses.
+<p align="center">
+  <img src="https://raw.githubusercontent.com/BilisumaEresso/RE-server/main/preview.png" alt="RE-construction App Screenshot" width="80%" style="border-radius:12px;"/>
+</p>
 
-**⚙️ Features:**
-- RESTful API built with Express.js and MongoDB  
-- TailwindCSS responsive design  
-- Agile development & Git version control
+A **portfolio website** for small construction companies to display projects and attract clients.
+
+**Highlights:**
+- ⚙️ RESTful APIs with Express.js & MongoDB  
+- 🎨 Responsive UI built with TailwindCSS  
+- 🔁 Follows Agile principles & version control with Git
 
 ---
 
 ## 🎓 Education
-**Addis Ababa University**  
-🎓 *BSc in Information Systems*  
-📆 *Expected Graduation:* June 2027 
+
+**🎓 Addis Ababa University**  
+Bachelor of Science in **Information Systems**  
+📅 *Expected Graduation:* June 2027  
+⭐ *GPA:* 3.76  
 
 ---
 
-## 📊 GitHub Stats
+## 📊 GitHub Analytics
 
 <p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=BilisumaEresso&show_icons=true&theme=tokyonight" />
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=BilisumaEresso&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api?username=BilisumaEresso&show_icons=true&theme=radical" width="49%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=BilisumaEresso&theme=radical" width="49%" />
 </p>
 
 <p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BilisumaEresso&layout=compact&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BilisumaEresso&layout=compact&theme=radical" width="50%" />
 </p>
 
 ---
 
-## 📫 Let's Connect
+## 🏆 Achievements
 
-- 💼 [LinkedIn](https://www.linkedin.com/in/bilisuma-eresso/)   
-- ✉️ [bilisumaere@gmail.com](mailto:bilisumaere@gmail.com)  
-- 🧠 [LeetCode](https://leetcode.com/u/BilisumaEresso/)
+- 🏅 Completed **MERN Stack Course on Udemy**  
+- 💻 Built & Deployed multiple full-stack apps using free cloud services  
+- 🔍 Consistent problem-solving on [LeetCode](https://leetcode.com/u/BilisumaEresso/)  
 
 ---
 
-⭐️ “Code with purpose. Learn endlessly. Build boldly.”
+## 📫 Connect with Me
 
+<p align="center">
+  <a href="mailto:bilisumaere@gmail.com"><img src="https://img.icons8.com/color/48/000000/gmail--v1.png"/></a>
+  <a href="https://www.linkedin.com/in/bilisuma-eresso/"><img src="https://img.icons8.com/color/48/000000/linkedin.png"/></a>
+  <a href="https://github.com/BilisumaEresso"><img src="https://img.icons8.com/ios-glyphs/48/000000/github.png"/></a>
+  <a href="https://leetcode.com/u/BilisumaEresso/"><img src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/48/null/external-level-up-your-coding-skills-and-quickly-land-a-job-logo-color-tal-revivo.png"/></a>
+</p>
+
+---
+
+<h3 align="center">⭐ "Code with purpose. Learn endlessly. Build boldly." ⭐</h3>
