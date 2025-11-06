@@ -1,5 +1,4 @@
-# BilisuamaEresso
-My Personal Repo
+
 <h1 align="center">👋 Hi, I'm Bilisuma Eresso</h1>
 
 <p align="center">
@@ -78,8 +77,7 @@ A company portfolio platform for small construction businesses.
 ## 🎓 Education
 **Addis Ababa University**  
 🎓 *BSc in Information Systems*  
-📆 *Expected Graduation:* June 2027  
-⭐ *GPA:* 3.76
+📆 *Expected Graduation:* June 2027 
 
 ---
 
@@ -98,8 +96,7 @@ A company portfolio platform for small construction businesses.
 
 ## 📫 Let's Connect
 
-- 💼 [LinkedIn](https://www.linkedin.com/in/bilisuma-eresso/)  
-- 💻 [GitHub](https://github.com/BilisumaEresso)  
+- 💼 [LinkedIn](https://www.linkedin.com/in/bilisuma-eresso/)   
 - ✉️ [bilisumaere@gmail.com](mailto:bilisumaere@gmail.com)  
 - 🧠 [LeetCode](https://leetcode.com/u/BilisumaEresso/)
 
