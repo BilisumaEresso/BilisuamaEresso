@@ -21,7 +21,7 @@
 
 ## 🧠 About Me
 
-🎓 I’m a **3rd-year Information Systems student** at **Addis Ababa University** (GPA: 3.76)  
+🎓 I’m a **3rd-year Information Systems student** at **Addis Ababa University** 
 💻 Passionate about **building full-stack web applications** using the **MERN stack (MongoDB, Express, React, Node.js)**  
 🌱 Currently improving my **system design** and **API optimization** skills  
 🧩 I love working on real-world problems and designing scalable digital solutions  
